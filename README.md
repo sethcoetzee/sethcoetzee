@@ -6,7 +6,7 @@ I am a provisional psychologist from Sydney, Australia, currently compeleting a 
 
 👯 I’m looking to collaborate on projects which target teams in either competitive (e.g., Sports, Gaming) or high-stress (e.g., Emergency Responders) contexts, and which seek to apply interventions in applied settings, to contribute to building effective and resilient teams. 
 
-📫 The best way to reach me at the moment is via my [LinkedIn]([LinkedIn](https://www.linkedin.com/in/sethcoetzee/))
+📫 The best way to reach me at the moment is via my [LinkedIn](https://www.linkedin.com/in/sethcoetzee/).
 
 <!--
 **sethcoetzee/sethcoetzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
