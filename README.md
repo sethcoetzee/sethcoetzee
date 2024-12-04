@@ -2,7 +2,7 @@
 
 I am a provisional psychologist from Sydney, Australia, currently compeleting a PhD in Organisational Psychology at Macquarie University. 
 
-🔭 I’m currently working on a research project investigating how reflection (i.e., debriefs) and communication under pressure (i.e., extrinsic emotion regulation) contribute to team effectiveness and resilience.
+🔭 I’m currently working on a research project investigating how reflection (debriefs) and communication under pressure (extrinsic emotion regulation) contribute to team effectiveness and resilience.
 
 👯 I’m looking to collaborate on projects which target teams in either competitive (e.g., Sports, Gaming) or high-stress (e.g., Emergency Responders) contexts, and which seek to apply interventions in applied settings, to contribute to building effective and resilient teams. 
 
